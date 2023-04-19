@@ -1,6 +1,6 @@
 import logo from "./logo.png";
 import racsliit from "./racsliit.png";
-import sliitcareer from "./logo.png";
+import sliitcareer from "./CGU_Logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -28,11 +28,22 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import mit from "./company/mitW.png";
+import nagarra from "./company/Nagarro.png";
+import codegen from "./company/CodegenBlueLogo.png";
+import rootcode from "./company/RootcodeLogo.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import sushi from "./testimonials/sushi.jpg";
+
 export {
+  mit,
+  nagarra,
+  codegen,
+  rootcode,
   logo,
   racsliit,
   sliitcareer,
@@ -57,6 +68,7 @@ export {
   typescript,
   threejs,
   meta,
+  sushi,
   shopify,
   starbucks,
   tesla,

@@ -13,7 +13,7 @@ const App = () => {
         </div>
         <About />
         <Schedule />
-        <Tech />
+        {/* <Tech /> */}
         {/* <Works /> */}
         <PreviousMemories />
         <Feedbacks />

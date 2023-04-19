@@ -4,9 +4,11 @@ import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 import { EarthCanvas } from "./canvas";
 import { logo } from "../assets";
+import Tech from "./Tech";
 
 const Hero = () => {
   return (
+    <>
     <section className={`relative w-full h-screen mx-auto`}>
       <div
         className={`absolute inset-0 top-[220px] z-10 max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
@@ -18,7 +20,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            <span className="text-[#f28c28]">CAREER</span> EXPO
+            <span className="text-[#ff8e1d]">CAREER</span> EXPO
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Your dream career awaits you
@@ -28,7 +30,7 @@ const Hero = () => {
       </div>
 
       {/* <img src={logo} alt='logo' className='' /> */}
-
+      
       {/* <EarthCanvas /> */}
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
@@ -48,7 +50,9 @@ const Hero = () => {
           </div>
         </a>
       </div>
+    {/* <Tech /> */}
     </section>
+    </>
   );
 };
 

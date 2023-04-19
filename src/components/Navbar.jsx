@@ -43,9 +43,9 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt='logo' className='w-30 h-12 object-contain' />
-          <img src={racsliit} alt='logo' className='w-30 h-12 object-contain' />
+          <img src={racsliit} alt='logo' className='w-35 h-12 object-contain' />
           <span className='sm:block hidden'> | </span>
-          <img src={sliitcareer} alt='logo' className='w-30 h-12 object-contain' />
+          <img src={sliitcareer} alt='logo' className='w-35 h-5 object-contain' />
           {/* <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Rotaract &nbsp;
             <span className='sm:block hidden'> |  EXPO</span>
