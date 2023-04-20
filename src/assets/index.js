@@ -38,6 +38,16 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+
+import company1 from "./company1.jpg";
+import company2 from "./company2.jpg";
+import company3 from "./company3.jpg";
+import company4 from "./company4.jpg";
+import company5 from "./company5.jpg";
+import company6 from "./company6.jpg";
+import company7 from "./company7.jpg";
+import company8 from "./company8.jpg";
+
 import sushi from "./testimonials/sushi.jpg";
 
 export {
@@ -49,6 +59,14 @@ export {
   logo,
   racsliit,
   sliitcareer,
+  company1,
+  company2,
+  company3,
+  company4,
+  company5,
+  company6,
+  company7,
+  company8,
   backend,
   creator,
   mobile,

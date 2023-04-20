@@ -29,6 +29,14 @@ import {
   codegen,
   rootcode,
   unilever,
+  company1,
+  company2,
+  company3,
+  company4,
+  company5,
+  company6,
+  company7,
+  company8,
 } from "../assets";
 
 export const navLinks = [
@@ -181,7 +189,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "1",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -198,11 +206,10 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: company1,
   },
   {
-    name: "Job IT",
+    name: "2",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -219,11 +226,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: company2,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "3",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -240,34 +247,54 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: company3,
     source_code_link: "https://github.com/",
   },
 ];
 
 const memories = [
   {
-    name: "Car Rent",
+    name: "1",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "career expo",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "2022",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "SLIIT",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: company1,
   },
   {
-    name: "Job IT",
+    name: "2",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "Professional development",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "career expo",
+        color: "green-text-gradient",
+      },
+      {
+        name: "RACSLIIT",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: company6,
+  },
+  {
+    name: "2",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -276,7 +303,7 @@ const memories = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Career Expo",
         color: "green-text-gradient",
       },
       {
@@ -284,10 +311,50 @@ const memories = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: company5,
   },
   {
-    name: "Trip Guide",
+    name: "3",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "MillenniumIT ESP",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "IT",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Career Expo",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: company2,
+  },
+  {
+    name: "4",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "infomate",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Career Expo",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tech",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: company7,
+  },
+  {
+    name: "5",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -300,51 +367,11 @@ const memories = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tech",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
+    image: company8,
   },
 ];
 
