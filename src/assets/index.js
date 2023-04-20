@@ -32,6 +32,7 @@ import mit from "./company/mitW.png";
 import nagarra from "./company/Nagarro.png";
 import codegen from "./company/CodegenBlueLogo.png";
 import rootcode from "./company/RootcodeLogo.png";
+import unilever from "./company/unilever.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -44,6 +45,7 @@ export {
   nagarra,
   codegen,
   rootcode,
+  unilever,
   logo,
   racsliit,
   sliitcareer,

@@ -46,12 +46,20 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        The main objectives of this project were assisting SLIIT undergraduates
-        and graduates in achieving their long-term professional aspirations by
-        creating an optimal platform, making it possible for students to
-        demonstrate their competencies to gain employment opportunities to
-        enhance their experience further and provide a platform to showcase the
-        talented individuals of SLIIT to the professionals in the industry.
+        Career Expo 23" is an exceptional platform that brings together a range
+        of exciting opportunities for both graduates and undergraduates. Job
+        seekers can expect to find a diverse range of companies and industries
+        represented, with opportunities ranging from entry-level positions to
+        executive-level roles. The Rotaract club of SLIIT, Professional
+        development avenue and the Career guidance unit strives to attract
+        companies with a strong commitment to diversity, equity, and inclusion,
+        and to provide job seekers with a chance to learn about companies that
+        align with their values and interests. With Career Expo 23, participants
+        can take advantage of an excellent opportunity to amplify their skills,
+        showcase their talents, and network with industry professionals. We are
+        committed to providing comprehensive guidance and support to help our
+        participants achieve success in their chosen careers. Join us and take
+        the first step towards a bright and prosperous future.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

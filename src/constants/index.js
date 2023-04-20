@@ -28,6 +28,7 @@ import {
   nagarra,
   codegen,
   rootcode,
+  unilever,
 } from "../assets";
 
 export const navLinks = [
@@ -47,19 +48,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Networking opportunities",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Job opportunities",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Industry insights",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Professional Development",
     icon: creator,
   },
 ];
@@ -127,13 +128,14 @@ const schedule = [
     iconBg: "#383E56",
     date: "25th April 2023",
     points: [
-      "MillenniumIT ESP : Stall - 1",
+      "MillenniumIT ESP",
       "Nagarro",
       "CodeGen International (Pvt) Ltd",
       "Rootcode",
-      "Nagarro",
+      "Infomate",
+      "Hemas Pharmaceuticals (Pvt) Ltd & Hemas Surgicals & Diagnostics (Pvt) Ltd",
     ],
-    logo: [mit, nagarra, codegen, rootcode],
+    logo: [mit, nagarra, codegen, rootcode, ],
   },
   {
     title: "Day 2 | 26th April",
@@ -142,13 +144,11 @@ const schedule = [
     iconBg: "#E6DEDD",
     date: "26th April 2023",
     points: [
-      "MillenniumIT ESP : Stall - 1",
-      "Nagarro",
-      "CodeGen International (Pvt) Ltd",
-      "Rootcode",
-      "Nagarro",
+      "Hemas",
+      "Unilever ",
+      "Nestle ",
     ],
-    logo: [mit, nagarra, codegen, rootcode],
+    logo: [unilever],
   },
 ];
 
