@@ -33,6 +33,9 @@ import nagarra from "./company/Nagarro.png";
 import codegen from "./company/CodegenBlueLogo.png";
 import rootcode from "./company/RootcodeLogo.png";
 import unilever from "./company/unilever.jpg";
+import hemas from "./company/HemasPharmaceuticalsLogo.png";
+import hemasc from "./company/CoporateLogo-Pharma.jpg";
+import mas from "./company/MAS.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -49,6 +52,8 @@ import company7 from "./company7.jpg";
 import company8 from "./company8.jpg";
 
 import sushi from "./testimonials/sushi.jpg";
+import ibba from "./testimonials/ibba.jpeg";
+import vinuri from "./testimonials/vinrui.png";
 
 export {
   mit,
@@ -56,6 +61,9 @@ export {
   codegen,
   rootcode,
   unilever,
+  mas,
+  hemasc,
+  hemas,
   logo,
   racsliit,
   sliitcareer,
@@ -89,6 +97,8 @@ export {
   threejs,
   meta,
   sushi,
+  vinuri,
+  ibba,
   shopify,
   starbucks,
   tesla,

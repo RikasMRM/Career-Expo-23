@@ -24,10 +24,15 @@ import {
   tripguide,
   threejs,
   sushi,
+  ibba,
+  vinuri,
   mit,
   nagarra,
   codegen,
   rootcode,
+  hemasc,
+  hemas,
+  mas,
   unilever,
   company1,
   company2,
@@ -142,8 +147,9 @@ const schedule = [
       "Rootcode",
       "Infomate",
       "Hemas Pharmaceuticals (Pvt) Ltd & Hemas Surgicals & Diagnostics (Pvt) Ltd",
+      "Enadoc",
     ],
-    logo: [mit, nagarra, codegen, rootcode, ],
+    logo: [mit, nagarra, codegen, rootcode, hemas ],
   },
   {
     title: "Day 2 | 26th April",
@@ -152,18 +158,22 @@ const schedule = [
     iconBg: "#E6DEDD",
     date: "26th April 2023",
     points: [
+      "MillenniumIT ESP",
+      "CodeGen International (Pvt) Ltd",
       "Hemas",
+      "Infomate",
       "Unilever ",
       "Nestle ",
+      "Mas Holdings",
     ],
-    logo: [unilever],
+    logo: [mit,codegen, hemas, unilever, mas],
   },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "Attending the Career Expo provided me with valuable opportunities for career exploration and networking. As the project manager, I gained experience in event planning and execution. I also secured an opportunity at MAS Holdings as a student participant. Overall, I highly recommend the Career Expo for professional development.",
+      "Attending the Career Expo provided me with valuable opportunities for career exploration and networking. As the project manager, I gained experience in event planning and execution. I also secured an opportunity at MAS Holdings as a student participant. Overall, the experience has been remarkable and I highly recommend the Career Expo for professional development.",
     name: "Shashini Hewadewa",
     designation: "Executive - Talent Management",
     company: "MAS Holdings",
@@ -171,19 +181,19 @@ const testimonials = [
   },
   {
     testimonial:
-      "Attending the Career Expo provided me with valuable opportunities for career exploration and networking. As the project manager, I gained experience in event planning and execution. I also secured an opportunity at MAS Holdings as a student participant. Overall, I highly recommend the Career Expo for professional development.",
-    name: "Shashini Hewadewa",
-    designation: "Executive - Talent Management",
-    company: "MAS Holdings",
-    image: sushi,
+      "Having attended Career Expo allowed me to network with a multitude of companies and understand their requirements of an ideal candidate. This experience definitely helped me professionally and I would recommend Career Expo for stepping stone for the future.",
+    name: "Ibraheem Rifthie",
+    designation: "Intern Mechanical Engineer",
+    company: "Atlas Labs",
+    image: ibba,
   },
   {
     testimonial:
-      "Attending the Career Expo provided me with valuable opportunities for career exploration and networking. As the project manager, I gained experience in event planning and execution. I also secured an opportunity at MAS Holdings as a student participant. Overall, I highly recommend the Career Expo for professional development.",
-    name: "Shashini Hewadewa",
-    designation: "Executive - Talent Management",
-    company: "MAS Holdings",
-    image: sushi,
+      "The Career Expo opened the door for every undergraduate and fresh graduate to explore different career options and talk to industry professionals to find the right path for them. I was fortunate enough to get the opportunity to join and work with one of the best-known companies in the software industry thanks to the Career Expo organized by SLIIT. Attending the Career Expo will definitely be worth it.",
+    name: "Vinuri Galagoda",
+    designation: "Business Analyst - Graduate Trainee",
+    company: "Codegen International",
+    image: vinuri,
   },
 ];
 
