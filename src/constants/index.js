@@ -31,6 +31,7 @@ import {
   codegen,
   rootcode,
   hemasc,
+  enadoc,
   hemas,
   mas,
   unilever,
@@ -149,7 +150,7 @@ const schedule = [
       "Hemas Pharmaceuticals (Pvt) Ltd & Hemas Surgicals & Diagnostics (Pvt) Ltd",
       "Enadoc",
     ],
-    logo: [mit, nagarra, codegen, rootcode, hemas ],
+    logo: [mit, nagarra, codegen, rootcode, hemas, enadoc ],
   },
   {
     title: "Day 2 | 26th April",

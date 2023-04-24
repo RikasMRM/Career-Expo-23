@@ -36,6 +36,7 @@ import unilever from "./company/unilever.jpg";
 import hemas from "./company/HemasPharmaceuticalsLogo.png";
 import hemasc from "./company/CoporateLogo-Pharma.jpg";
 import mas from "./company/MAS.jpg";
+import enadoc from "./company/enadoc.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -63,6 +64,7 @@ export {
   unilever,
   mas,
   hemasc,
+  enadoc,
   hemas,
   logo,
   racsliit,
